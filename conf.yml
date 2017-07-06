@@ -1,0 +1,21 @@
+##Client Division
+client_div: 1143
+staging_product: 7432 
+
+##Non Prod Division
+non-prod_div: 2605 
+techops_product: 8972
+
+##Dev Division
+dev_div: 2655
+z-stage_product: 9987
+
+##
+tokens: https://io.catchpoint.com/ui/api/token
+tests: https://io.catchpoint.com/ui/api/v1/products
+products: https://io.catchpoint.com/ui/api/v1/products
+folders: https://io.catchpoint.com/ui/api/v1/folders
+nodes: https://io.catchpoint.com/ui/api/v1/nodes
+nodegroups: https://io.catchpoint.com/ui/api/v1/nodeGroups
+favcharts: https://io.catchpoint.com/ui/api/v1/performance/favoriteCharts
+
